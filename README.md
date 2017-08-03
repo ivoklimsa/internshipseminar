@@ -1,4 +1,3 @@
-# internshipseminar
 # Internship Seminar
 Materials for nternship Seminar 2017
 
